@@ -5,7 +5,8 @@
 2. What is the most popular area for bookings?
 3. Can we build a reliable price prediction model?
 
-![image](Images\Coastal_heatmap.png)
+
+![Coastal_heatmap](https://user-images.githubusercontent.com/12718924/147490404-70962c96-dd5e-4790-bacb-8cf8968f1dbf.png)
 
 
 Link to the blog post https://www.linkedin.com/pulse/exploring-popular-airbnb-bookings-cape-town-tshepo-moagi
