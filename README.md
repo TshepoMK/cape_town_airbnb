@@ -120,6 +120,7 @@ Looking at the coefficient table for the variables, it tells apart from the obvi
 
 -  listings.csv: Cape Town Airbnb data
 -  capetown_outpy.html: Heatmap plotted using folium to show concentrations of bookings
+-  cape_town_airbnb_assignment.ipynb: Code used for the Analysis
 -  Image Folder: Contains images on this analysis
 
 ##  7. Acknowledgements
